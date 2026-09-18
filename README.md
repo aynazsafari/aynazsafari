@@ -2,147 +2,184 @@
 
 <img src="./assets/aynaz-banner.png" width="850"/>
 
+</div>
+
 <br>
 
-</div>
 
 ---
 
-<div align="center">
-
-## 🌸 About Me
-
-</div>
+## 🌷 About Me
 
 Hi, I'm **Aynaz Safari** — a Computer Engineering student interested in the intersection of **Artificial Intelligence, Computer Vision, Medical AI, and Computer Networks**.
 
-My work focuses on applying **Machine Learning and Deep Learning techniques** to real-world engineering and research problems, with an interest in developing reproducible research pipelines and intelligent systems.
+My work focuses on applying **Machine Learning and Deep Learning techniques** to real-world engineering and research problems.
+
+I am interested in developing intelligent systems, analyzing real-world datasets, building reproducible research pipelines, and exploring AI solutions for industrial, medical, and networking applications.
 
 ---
 
-## 🎀 Research Interests
+# 🌸 Research Interests
 
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🏭 Industrial Anomaly Detection
-- 🧠 Medical AI
-- 🔬 Multimodal Learning
-- 🌐 Computer Networks
-- 🔐 Machine Learning for Network Security
-- ✨ Explainable AI (XAI)
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Medical%20AI-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-F48FB1?style=flat-square"/>
 
 ---
 
-## 💻 Technical Skills
+# 💻 Technical Skills
 
-### Programming
-`Python`
+## 🐍 Programming
 
-### AI & Deep Learning
-`PyTorch` · `Scikit-learn` · `OpenCV` · `NumPy` · `Pandas`
-
-### Computer Vision
-`PatchCore` · `Anomalib` · `MVTec AD` · `Multi-view Inspection`
-
-### Medical AI
-`Federated Learning` · `MRI Analysis` · `Multimodal Learning` · `XAI`
-
-### Networking
-`GNS3` · `Cisco Packet Tracer` · `Network+` · `Security+`
+<img src="https://img.shields.io/badge/Python-F8BBD0?style=flat-square&logo=python&logoColor=white"/>
 
 ---
 
-## 🌷 Selected Projects
+## 🤖 Machine Learning & Deep Learning
 
-### 🔎 AI Search Visualizer
-
-An interactive visualization tool for classical AI search algorithms.
-
-**Algorithms:**
-
-`BFS` · `DFS` · `UCS` · `A*` · `Greedy Search`
+<img src="https://img.shields.io/badge/PyTorch-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-F8BBD0?style=flat-square"/>
 
 ---
 
-### 📱 Smart QR Attendance System
+## 👁️ Computer Vision
+
+<img src="https://img.shields.io/badge/PatchCore-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Anomalib-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVTec%20AD-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--View%20Vision-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/CLIP-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/DINOv2-F06292?style=flat-square"/>
+
+---
+
+## 🧠 Medical AI
+
+<img src="https://img.shields.io/badge/Federated%20Learning-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/MRI%20Analysis-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multimodal%20Learning-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/XAI-F8BBD0?style=flat-square"/>
+
+---
+
+## 🌐 Networking
+
+<img src="https://img.shields.io/badge/GNS3-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network%2B-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security%2B-F8BBD0?style=flat-square"/>
+
+---
+
+# 🌸 Selected Projects
+
+## 🔎 AI Search Visualizer
+
+Interactive visualization of classical AI search algorithms.
+
+**Algorithms**
+
+<img src="https://img.shields.io/badge/BFS-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/DFS-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/UCS-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/A*-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Greedy%20Search-F48FB1?style=flat-square"/>
+
+---
+
+## 📱 Smart QR Attendance System
 
 A QR-based attendance management system.
 
-**Features:**
+**Features**
 
-`QR Generation`  
-`Live Check-in`  
-`CSV Reporting`
-
----
-
-### ✅ Full-Stack To-Do Application
-
-A CRUD-based application developed with:
-
-`FastAPI` · `React` · `Docker`
+<img src="https://img.shields.io/badge/QR%20Generation-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Live%20Check--in-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/CSV%20Reporting-F06292?style=flat-square"/>
 
 ---
 
-## 🧬 Ongoing Research
+## ✅ Full-Stack To-Do Application
 
-> 🌸 Some research projects are currently private and will be released after publication permissions.
+A CRUD-based web application.
 
----
+**Technologies**
 
-### 🏭 Industrial Anomaly Detection
-
-Research on deep learning-based visual inspection systems.
-
-**Methods:**
-
-`PatchCore` · `Anomalib` · `MVTec AD` · `Multi-view Vision`
+<img src="https://img.shields.io/badge/FastAPI-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-F06292?style=flat-square"/>
 
 ---
 
-### 🧠 Multimodal AI for Alzheimer's Disease
+# 🔬 Ongoing Research & Publications
 
-Research focused on medical AI applications.
-
-**Topics:**
-
-`MRI` · `Federated Learning` · `Multimodal Learning` · `Explainable AI`
+> 🌸 Some of my research projects are currently under review or preparation for publication.  
+> Due to publication policies, source codes, datasets, and detailed experimental results will be released publicly after receiving permission.
 
 ---
 
-### ❤️ Deep Learning for ECG Analysis
+## 🏭 Industrial Anomaly Detection
 
-Biomedical signal analysis using deep learning approaches.
+Deep learning-based visual inspection for industrial environments.
 
-**Dataset:**
+**Methods**
 
-`PTB-XL`
+<img src="https://img.shields.io/badge/PatchCore-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Anomalib-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVTec%20AD-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--View%20Inspection-F8BBD0?style=flat-square"/>
 
-**Techniques:**
-
-`Signal Processing` · `Deep Learning`
-
----
-
-## 🌱 Currently Exploring
-
-`Vision-Language Models`  
-`CLIP` · `DINOv2` · `SAM/SAM2`  
-`Advanced Computer Vision Methods`
+📌 Research project and manuscript preparation.  
+🔒 Code and detailed results will be released after publication approval.
 
 ---
 
-## 🎀 Beyond Code
+## 🧠 Multimodal AI for Alzheimer's Disease
 
-- 🎸 Playing guitar
-- 🎬 Watching movies and series
-- 🌱 Learning new technologies
-- 💻 Building AI projects
-- 🔬 Exploring research ideas
+Artificial intelligence approaches for Alzheimer's disease analysis using multimodal medical data.
+
+**Topics**
+
+<img src="https://img.shields.io/badge/Medical%20AI-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Federated%20Learning-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/MRI-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/XAI-F8BBD0?style=flat-square"/>
+
+📌 Manuscript under review / preparation.  
+🔒 Implementation details will be available after publication.
 
 ---
 
-## 📬 Connect With Me
+## ❤️ Deep Learning for ECG Analysis
+
+Deep learning methods for biomedical signal analysis.
+
+**Dataset & Methods**
+
+<img src="https://img.shields.io/badge/PTB--XL-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/ECG%20Processing-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-F06292?style=flat-square"/>
+
+📌 Research manuscript in progress.
+
+---
+
+# 🌱 Currently Exploring
+
+<img src="https://img.shields.io/badge/Vision--Language%20Models-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/CLIP-F48FB1?style=flat-square"/>
+<img src="https://img.shields.io/badge/DINOv2-F06292?style=flat-square"/>
+<img src="https://img.shields.io/badge/SAM%2FSAM2-F8BBD0?style=flat-square"/>
+
+---
+
+# 📬 Connect With Me
 
 <div align="center">
 
@@ -164,6 +201,6 @@ Biomedical signal analysis using deep learning approaches.
 
 <div align="center">
 
-### 🌸 Research • Engineering • Creativity • Growth 🌸
+🌸 Research · Engineering · Innovation · Growth 🌸
 
 </div>
