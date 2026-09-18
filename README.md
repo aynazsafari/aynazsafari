@@ -1,15 +1,10 @@
 <div align="center">
-
-<img src="./assets/aynaz-banner.png" width="850"/>
-
+  <img src="./assets/aynaz-banner.png" width="850" alt="Aynaz Safari banner"/>
 </div>
-
-<br>
-
 
 ---
 
-## 🌷 About Me
+# 🌷 About Me
 
 Hi, I'm **Aynaz Safari** — a Computer Engineering student interested in the intersection of **Artificial Intelligence, Computer Vision, Medical AI, and Computer Networks**.
 
@@ -21,11 +16,13 @@ I am interested in developing intelligent systems, analyzing real-world datasets
 
 # 🌸 Research Interests
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Medical%20AI-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-F48FB1?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Medical%20AI-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI-F48FB1?style=flat-square"/>
+</p>
 
 ---
 
@@ -33,47 +30,57 @@ I am interested in developing intelligent systems, analyzing real-world datasets
 
 ## 🐍 Programming
 
-<img src="https://img.shields.io/badge/Python-F8BBD0?style=flat-square&logo=python&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-F8BBD0?style=flat-square&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ## 🤖 Machine Learning & Deep Learning
 
-<img src="https://img.shields.io/badge/PyTorch-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenCV-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/NumPy-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pandas-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/Matplotlib-F8BBD0?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenCV-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Matplotlib-F8BBD0?style=flat-square"/>
+</p>
 
 ---
 
 ## 👁️ Computer Vision
 
-<img src="https://img.shields.io/badge/PatchCore-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Anomalib-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/MVTec%20AD-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--View%20Vision-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/CLIP-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/DINOv2-F06292?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/PatchCore-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Anomalib-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MVTec%20AD-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multi--View%20Vision-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CLIP-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DINOv2-F06292?style=flat-square"/>
+</p>
 
 ---
 
 ## 🧠 Medical AI
 
-<img src="https://img.shields.io/badge/Federated%20Learning-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/MRI%20Analysis-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multimodal%20Learning-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/XAI-F8BBD0?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/Federated%20Learning-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MRI%20Analysis-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multimodal%20Learning-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/XAI-F8BBD0?style=flat-square"/>
+</p>
 
 ---
 
 ## 🌐 Networking
 
-<img src="https://img.shields.io/badge/GNS3-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Network%2B-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security%2B-F8BBD0?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/GNS3-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Network%2B-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Security%2B-F8BBD0?style=flat-square"/>
+</p>
 
 ---
 
@@ -85,11 +92,13 @@ Interactive visualization of classical AI search algorithms.
 
 **Algorithms**
 
-<img src="https://img.shields.io/badge/BFS-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/DFS-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/UCS-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/A*-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Greedy%20Search-F48FB1?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/BFS-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DFS-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UCS-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/A*-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Greedy%20Search-F48FB1?style=flat-square"/>
+</p>
 
 ---
 
@@ -99,9 +108,11 @@ A QR-based attendance management system.
 
 **Features**
 
-<img src="https://img.shields.io/badge/QR%20Generation-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Live%20Check--in-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/CSV%20Reporting-F06292?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/QR%20Generation-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Live%20Check--in-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CSV%20Reporting-F06292?style=flat-square"/>
+</p>
 
 ---
 
@@ -111,16 +122,18 @@ A CRUD-based web application.
 
 **Technologies**
 
-<img src="https://img.shields.io/badge/FastAPI-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-F06292?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-F06292?style=flat-square"/>
+</p>
 
 ---
 
 # 🔬 Ongoing Research & Publications
 
-> 🌸 Some of my research projects are currently under review or preparation for publication.  
-> Due to publication policies, source codes, datasets, and detailed experimental results will be released publicly after receiving permission.
+> 🌸 Some of my research projects are currently under review or in preparation for publication.  
+> Due to publication policies, source code, datasets, and detailed experimental results will be released publicly after receiving permission.
 
 ---
 
@@ -130,12 +143,14 @@ Deep learning-based visual inspection for industrial environments.
 
 **Methods**
 
-<img src="https://img.shields.io/badge/PatchCore-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Anomalib-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/MVTec%20AD-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--View%20Inspection-F8BBD0?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/PatchCore-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Anomalib-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MVTec%20AD-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multi--View%20Inspection-F8BBD0?style=flat-square"/>
+</p>
 
-📌 Research project and manuscript preparation.  
+📌 **Status:** Research project and manuscript preparation  
 🔒 Code and detailed results will be released after publication approval.
 
 ---
@@ -146,12 +161,15 @@ Artificial intelligence approaches for Alzheimer's disease analysis using multim
 
 **Topics**
 
-<img src="https://img.shields.io/badge/Medical%20AI-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Federated%20Learning-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/MRI-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/XAI-F8BBD0?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/Medical%20AI-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Federated%20Learning-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MRI-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multimodal%20Learning-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/XAI-F48FB1?style=flat-square"/>
+</p>
 
-📌 Manuscript under review / preparation.  
+📌 **Status:** Manuscript under review / preparation  
 🔒 Implementation details will be available after publication.
 
 ---
@@ -162,20 +180,43 @@ Deep learning methods for biomedical signal analysis.
 
 **Dataset & Methods**
 
-<img src="https://img.shields.io/badge/PTB--XL-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/ECG%20Processing-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-F06292?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/PTB--XL-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ECG%20Processing-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-F8BBD0?style=flat-square"/>
+</p>
 
-📌 Research manuscript in progress.
+📌 **Status:** Research manuscript in progress  
+🔒 Source code and experimental resources will be available after publication.
+
+---
+
+## 🌐 Intelligent Networking & Security
+
+Machine learning-based approaches for network analysis and intelligent security systems.
+
+**Topics**
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Network%20Analysis-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Network%20Security-F06292?style=flat-square"/>
+</p>
+
+📌 **Status:** Research development  
+🔒 Public release will follow publication policies.
 
 ---
 
 # 🌱 Currently Exploring
 
-<img src="https://img.shields.io/badge/Vision--Language%20Models-F8BBD0?style=flat-square"/>
-<img src="https://img.shields.io/badge/CLIP-F48FB1?style=flat-square"/>
-<img src="https://img.shields.io/badge/DINOv2-F06292?style=flat-square"/>
-<img src="https://img.shields.io/badge/SAM%2FSAM2-F8BBD0?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/Vision--Language%20Models-F8BBD0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CLIP-F48FB1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DINOv2-F06292?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SAM%2FSAM2-F8BBD0?style=flat-square"/>
+</p>
 
 ---
 
@@ -184,15 +225,15 @@ Deep learning methods for biomedical signal analysis.
 <div align="center">
 
 <a href="https://github.com/aynazsafari">
-<img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-F48FB1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-F48FB1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-F06292?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-F06292?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
