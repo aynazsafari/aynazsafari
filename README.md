@@ -209,17 +209,6 @@ Machine learning-based approaches for network analysis and intelligent security 
 
 ---
 
-# 🌱 Currently Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Vision--Language%20Models-F8BBD0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CLIP-F48FB1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DINOv2-F06292?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SAM%2FSAM2-F8BBD0?style=flat-square"/>
-</p>
-
----
-
 # 📬 Connect With Me
 
 <div align="center">
