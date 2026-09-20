@@ -150,9 +150,6 @@ Deep learning-based visual inspection for industrial environments.
   <img src="https://img.shields.io/badge/Multi--View%20Inspection-F8BBD0?style=flat-square"/>
 </p>
 
-📌 **Status:** Research project and manuscript preparation  
-🔒 Code and detailed results will be released after publication approval.
-
 ---
 
 ## 🧠 Multimodal AI for Alzheimer's Disease
